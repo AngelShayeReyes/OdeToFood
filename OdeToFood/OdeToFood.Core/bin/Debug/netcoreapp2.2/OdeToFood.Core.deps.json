@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "OdeToFood.Core/1.0.0": {
+        "dependencies": {
+          "Font.Awesome": "5.15.4",
+          "FontAwesome": "4.7.0",
+          "bootstrap": "5.1.0",
+          "font-awesome": "4.7.0"
+        },
+        "runtime": {
+          "OdeToFood.Core.dll": {}
+        }
+      },
+      "bootstrap/5.1.0": {},
+      "font-awesome/4.7.0": {},
+      "Font.Awesome/5.15.4": {},
+      "FontAwesome/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "OdeToFood.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X3pFGTRx6qZxkybkit5OGMQDIJHu2uQ1lQSmyqa7iJx8MASsJdfvBUCtzsyiEbSDI7LUuSLitCbaMn2OPFszWg==",
+      "path": "bootstrap/5.1.0",
+      "hashPath": "bootstrap.5.1.0.nupkg.sha512"
+    },
+    "font-awesome/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MCuSOl63d8b9Etn7Jm4FJS1lp8d8W9fGwQ6xu5SqrRu8e/p+FZv2a8W/LguziecV1ZpTqZPamG5nfmZs28SahA==",
+      "path": "font-awesome/4.7.0",
+      "hashPath": "font-awesome.4.7.0.nupkg.sha512"
+    },
+    "Font.Awesome/5.15.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Okg91rA7RWbd+eKyBNNnvlvzFee7A4yIi0WdTrJMVPos1ntONAVn/m96Ex9qvVXKKiroBZ1vtCXtpFMnHNof1g==",
+      "path": "font.awesome/5.15.4",
+      "hashPath": "font.awesome.5.15.4.nupkg.sha512"
+    },
+    "FontAwesome/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n4H/brfszElyoZ4kmGh8E75uqvLzLvFr3h2PFVdPH1LwUmWIpeqdaW2pcC4oZAhg7sESyObh0IZpAI8COCNeUg==",
+      "path": "fontawesome/4.7.0",
+      "hashPath": "fontawesome.4.7.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/bin/Debug/netcoreapp2.2/OdeToFood.Core.deps.json
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/bin/Debug/netcoreapp2.2/OdeToFood.Core.dll
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/bin/Debug/netcoreapp2.2/OdeToFood.Core.pdb
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.AssemblyInfoInputs.cache
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.AssemblyInfo.cs
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.csproj.CoreCompileInputs.cache
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.dll
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.pdb
+/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp2.2/OdeToFood.Core.csproj.AssemblyReference.cache

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{55225BB2-13F4-44D0-9690-0FFFCB9B1ED8}|Default">
+  <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood/appsettings.json">
+    <Files>
+      <File FileName="OdeToFood/appsettings.json" Line="10" Column="88" />
+      <File FileName="OdeToFood.Data/OdeToFoodDbContext.cs" />
+      <File FileName="OdeToFood/Startup.cs" />
+      <File FileName="OdeToFood.Data/OdeToFood.Data.csproj" />
+      <File FileName="OdeToFood.Data/Migrations/OdeToFoodDbContextModelSnapshot.cs" />
+      <File FileName="OdeToFood.Data/Migrations/20210929083548_initialcreate.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OdeToFood" expanded="True">
+            <Node name="OdeToFood" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

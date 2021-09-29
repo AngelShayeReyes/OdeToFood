@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qpr8ZhW6jdg6/s+uvc59Se/GnYbR3zDD+ePfgR+GvsxMWo1uv9Ttaso0/zn26I/TyTi2SDnlisMOKRKUOFaCuA==",
+  "success": true,
+  "projectFilePath": "/Users/angelshaye.reyes/Documents/Development/AspNetCore/OdeToFood/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/angelshaye.reyes/.nuget/packages/bootstrap/5.1.0/bootstrap.5.1.0.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/font-awesome/4.7.0/font-awesome.4.7.0.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/font.awesome/5.15.4/font.awesome.5.15.4.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/fontawesome/4.7.0/fontawesome.4.7.0.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/Users/angelshaye.reyes/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
